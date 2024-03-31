@@ -1,0 +1,16 @@
+body {
+    /* body-size */
+    font-size: 16px;
+    /* font-family */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+p {
+    /* line-height */
+    line-height: 1.5;
+}
+img {
+    max-height: 400px;
+}
+.coloredText {
+    color: palevioletred;
+}
